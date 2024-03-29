@@ -1,0 +1,14 @@
+C:\Users\apnor\CPRG211\OOP-Lab10\bin\Debug\net8.0\OOP-Lab10.exe
+C:\Users\apnor\CPRG211\OOP-Lab10\bin\Debug\net8.0\OOP-Lab10.deps.json
+C:\Users\apnor\CPRG211\OOP-Lab10\bin\Debug\net8.0\OOP-Lab10.runtimeconfig.json
+C:\Users\apnor\CPRG211\OOP-Lab10\bin\Debug\net8.0\OOP-Lab10.dll
+C:\Users\apnor\CPRG211\OOP-Lab10\bin\Debug\net8.0\OOP-Lab10.pdb
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.AssemblyInfoInputs.cache
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.AssemblyInfo.cs
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.csproj.CoreCompileInputs.cache
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.dll
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\refint\OOP-Lab10.dll
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.pdb
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\OOP-Lab10.genruntimeconfig.cache
+C:\Users\apnor\CPRG211\OOP-Lab10\obj\Debug\net8.0\ref\OOP-Lab10.dll
